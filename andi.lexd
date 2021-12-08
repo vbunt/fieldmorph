@@ -19,8 +19,8 @@ LEXICON NounInfl
 <sub><lative>:лIи
 <super><lative>:ъо
 <ad><lative>:хо
-<dat1>:й
-<dat2>:лъу
+<dat>:й
+<dat>:лъу
 
 LEXICON NounInflEssive
 <super><essive>:ъа
